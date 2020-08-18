@@ -9,7 +9,7 @@ Neural network with automatic gradient computation and automatic estime update
   
  Lab4: Neural network on GPU 
  
-  Lab5: Ruction approximation with a deep neural network 
+  Lab5: Fuction approximation with a deep neural network 
   
   Lab6: MNIST handwritten digits classification with regularized MLPs
   
